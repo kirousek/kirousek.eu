@@ -8,7 +8,7 @@ export default function Home() {
           </nav>
           <div className="flex flex-col flex-grow">
               <div className="p-5">
-                  <div className="max-w-3xl h-screen mx-auto text-center items-center mt-10 py-10">
+                  <div className="max-w-3xl h-5/6 mx-auto text-center items-center mt-10 py-32">
                       <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-snug md:leading-snug lg:leading-snug xl:leading-snug">Hi, I&apos;m Patrik</h1>
                       <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-snug md:leading-snug lg:leading-snug xl:leading-snug text-gray-400">Hi, I&apos;m Patrik</h1>
                       <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-snug md:leading-snug lg:leading-snug xl:leading-snug text-gray-600">Hi, I&apos;m Patrik</h1>
