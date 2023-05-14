@@ -9,9 +9,9 @@ export default function Home() {
           <div className="flex flex-col flex-grow">
               <div className="p-5">
                   <div className="max-w-3xl mx-auto text-center items-center mt-10 py-10">
-                      <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-snug md:leading-snug lg:leading-snug xl:leading-snug">Hi, I'm Patrik</h1>
-                      <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-snug md:leading-snug lg:leading-snug xl:leading-snug text-gray-400">Hi, I'm Patrik</h1>
-                      <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-snug md:leading-snug lg:leading-snug xl:leading-snug text-gray-600">Hi, I'm Patrik</h1>
+                      <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-snug md:leading-snug lg:leading-snug xl:leading-snug">Hi, I&apos;m Patrik</h1>
+                      <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-snug md:leading-snug lg:leading-snug xl:leading-snug text-gray-400">Hi, I&apos;m Patrik</h1>
+                      <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-snug md:leading-snug lg:leading-snug xl:leading-snug text-gray-600">Hi, I&apos;m Patrik</h1>
                       <div className="text-xl md:text-2xl lg:text-3xl font-semibold py-3.5">
                           <p className="text-gray-400">Frontend/Software Developer</p>
                       </div>

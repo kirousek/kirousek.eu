@@ -15,11 +15,11 @@ export default function AboutMe() {
                 <div>
                     <div className="max-w-3xl mx-auto">
                         <p className="text-lg lg:text-xl font-semibold text-gray-600">
-                            Updated 14/05/23 23:55 (I can't sleep lol)
+                            Updated 14/05/23 23:55 (I can&apos;t sleep lol)
                         </p>
                         <article className="max-w-none my-10 text-gray-500">
                             <p>Hey, my name is Patrik</p>
-                            <p>I am obviously developer and I can do some shitty websites in Next.js or anything you want, I can learn almost everything if it's not about physics</p>
+                            <p>I am obviously developer and I can do some shitty websites in Next.js or anything you want, I can learn almost everything if it&apos;s not about physics</p>
                             <h2 className="font-semibold text-gray-400 text-xl py-2">Contact</h2>
                             <span className="flex">
                                 <h3 className="font-semibold text-md text-gray-400">Discord:&nbsp;</h3>

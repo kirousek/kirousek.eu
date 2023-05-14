@@ -20,11 +20,11 @@ export default function AboutMe() {
                 <div>
                     <div className="max-w-3xl mx-auto">
                         <p className="text-lg lg:text-xl font-semibold text-gray-600">
-                            Updated 14/05/23 23:55 (I can't sleep lol)
+                            Updated 14/05/23 23:55 (I can&apos;t sleep lol)
                         </p>
                         <article className="max-w-none my-10 text-gray-500">
-                            <p>It started as a HTML, CSS and JS project, because of my stupid classmates, that can't do basic shit in frameworks. After that I created second project that I have done alone, but teacher said no, so it is at HTML again. I'm very sad about this, but at least I have a reason to beat up my classmates everyday.</p>
-                            <p>Because my classmates are fat fucks I made entire website in both Next.js and HTML. Next.js version is now discontinued, but it's working so you can use it as template or something I don't really care.</p>
+                            <p>It started as a HTML, CSS and JS project, because of my stupid classmates, that can&apos;t do basic shit in frameworks. After that I created second project that I have done alone, but teacher said no, so it is at HTML again. I&apos;m very sad about this, but at least I have a reason to beat up my classmates everyday.</p>
+                            <p>Because my classmates are fat fucks I made entire website in both Next.js and HTML. Next.js version is now discontinued, but it&apos;s working so you can use it as template or something I don&apos;t really care.</p>
                         </article>
                     </div>
                 </div>
