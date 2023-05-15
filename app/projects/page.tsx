@@ -25,7 +25,7 @@ export default function Home() {
                                   Class Project
                               </h2>
                               <p className="my-5 text-lg text-gray-500">
-                                  Project that started as simple project in html and evolved into Next.js...
+                                  Project that started as simple project in html and evolved into Next.js and back into HTML...
                               </p>
                           </Link>
                       </div>
