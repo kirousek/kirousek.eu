@@ -16,7 +16,7 @@ git clone https://github.com/kirousek.eu
 npm install
 ```
 
-3. Get [Airtable][https://airtable.com] API Key (for shortlinks)
+3. Get [Airtable](https://airtable.com) API Key (for shortlinks)
 
 ```env
 # .env
