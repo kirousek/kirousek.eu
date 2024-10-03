@@ -86,7 +86,6 @@ export const CONTENTS = {
   contact: getContacts,
   error: (input) =>
     `<div class="help-command">sh: Unknown command: ${input}</div><div class="help-command">See \`help\` for info`,
-  },
 };
 
 function getAge(dateString) {
