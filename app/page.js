@@ -1,9 +1,11 @@
+import { Analytics } from "@vercel/analytics/react"
 import Terminal from "../components/Terminal";
 
 import styles from "./Home.module.css";
 
 export default function Home() {
   return (
+    <Analytics />
     <div className={styles.container}>
       <h1>
         kirousek:$ <span className={styles.help}>type help to start</span>
