@@ -20,6 +20,10 @@ const COMMANDS = [
     description: "Contact Me",
   },
   {
+    command: "donate",
+    description: "Donate to me"
+  },
+  {
     command:
       // 'clear <span style="color: var(--primary)">(Ctrl+L shortcut)</span>',
       "clear",
@@ -84,6 +88,13 @@ export const CONTENTS = {
   `,
   projects: getProjects,
   contact: getContacts,
+  donate: () => `
+  BTC: bc1qrxcn85jx4u0hlgx3qv6pfuh8uhhavnx5ajjazx
+  <hr>
+  ETH: 0x1c4468EfADf464B224c8bEEd9288380c62FD40CB
+  SOL: EoKMn35Ek5cY2fQ4vJ1iNB3LUyvwQzRhjhHRYbqdQAnX
+  Ko-fi: <a href="https://ko-fi.com/kirousek" target="_blank">Ko-fi</a>
+  `,
   error: (input) =>
     `<div class="help-command">sh: Unknown command: ${input}</div><div class="help-command">See \`help\` for info`,
 };
