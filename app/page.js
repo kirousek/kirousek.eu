@@ -5,7 +5,6 @@ import styles from "./Home.module.css";
 
 export default function Home() {
   return (
-    <Analytics />
     <div className={styles.container}>
       <h1>
         kirousek:$ <span className={styles.help}>type help to start</span>
@@ -14,6 +13,7 @@ export default function Home() {
         Powered by Next.js
       </p>
       <Terminal />
+      <Analytics />
     </div>
   );
 }
