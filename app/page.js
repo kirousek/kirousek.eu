@@ -1,4 +1,5 @@
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import Terminal from "../components/Terminal";
 
 import styles from "./Home.module.css";
@@ -14,6 +15,7 @@ export default function Home() {
       </p>
       <Terminal />
       <Analytics />
+      <SpeedInsights />
     </div>
   );
 }
